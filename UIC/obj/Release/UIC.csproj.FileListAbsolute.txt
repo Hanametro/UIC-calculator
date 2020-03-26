@@ -1,0 +1,15 @@
+D:\DB2-1853767\UIC\UIC\bin\Release\UIC.exe.config
+D:\DB2-1853767\UIC\UIC\obj\Release\UIC.Form1.resources
+D:\DB2-1853767\UIC\UIC\obj\Release\UIC.Properties.Resources.resources
+D:\DB2-1853767\UIC\UIC\obj\Release\UIC.csproj.GenerateResource.Cache
+D:\DB2-1853767\UIC\UIC\bin\Release\UIC.exe
+D:\DB2-1853767\UIC\UIC\bin\Release\UIC.pdb
+D:\DB2-1853767\UIC\UIC\obj\Release\UIC.exe
+D:\DB2-1853767\UIC\UIC\obj\Release\UIC.pdb
+D:\DB2-1853767\UIC\UIC\obj\Release\UIC.csprojResolveAssemblyReference.cache
+E:\【开发向】程序库\UIC\UIC\bin\Release\UIC.exe.config
+E:\【开发向】程序库\UIC\UIC\obj\Release\UIC.exe
+E:\【开发向】程序库\UIC\UIC\obj\Release\UIC.pdb
+E:\【开发向】程序库\UIC_calculator\UIC\bin\Release\UIC.exe.config
+E:\【开发向】程序库\UIC_calculator\UIC\obj\Release\UIC.exe
+E:\【开发向】程序库\UIC_calculator\UIC\obj\Release\UIC.pdb
